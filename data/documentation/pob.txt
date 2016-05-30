@@ -1,0 +1,322 @@
+Place of Birth
+@Mehryar Maalem - 2016
+
+1986
+
+Canada {canpob} (1-11)
+USA {uspob} (12)
+
+Northern  & Western European {nwoeuropob}
+	- Ireland, 18
+	- UK, 19
+
+	- Belgium (13)
+	- france (14)
+	- Germany (15)
+	- Netherland (16)
+	- Austra (17)
+
+Eastern European {eeuropob}
+	- Yugoslavia (20)
+	- Hungary (25)
+	- Poland (23)
+	- USSR (26)
+	- Czcech (27)
+
+South European {seuropob}
+	- greece (21)
+	- italy (22)
+	- portugal (23)
+
+Other European {oeuropob} (28)
+
+South/Southeast Asia{sasiapob}
+	- eastern asia (29)
+	- south east asia (31)
+
+west asia {wasiapob}
+	- western asia (32)
+
+
+Africa {afropob}
+	- northern africa (33)
+	- southern africa (34)
+	- other africa (35)
+
+Caribbean, Central America, Bermude {latinpob}
+	- South/Central America (36)
+	- Caribbean (35)
+
+Other {opob} (38)
+
+Atlantic_Other {atotherpob} NA
+Atlantic_Asia {atotherasiapob} NA
+Atlantic_OtherEuro {atothereuropob} NA
+
+1991
+
+Canada {canpop} (1-10)
+	Atlantic Provinces
+	- (29), (30), (31), (32), (33)
+USA {uspop} (11)
+
+Northern & Western European {nwoeuropob}
+	- UK (12)
+	- germany (13)
+	
+Eastern European {eeuropob}
+	- Poland (16)
+	- USSR (17)
+
+South European {seuropob}
+	- Italy (14)
+	- Portugal, (15)
+Other European {oeuropob} (18)
+	- Atlantic Provinces Europe (34)
+
+west asia {wasiapob}
+	- Middle East (19)
+
+South/Southeast Asia{asiapob}
+	- south Asia (20)
+	- hong kong (21)
+	- china (22)
+	- philippines (23)
+	- vietnamese (24)
+	- Other E/SE (25)
+
+Africa {afropob}
+	- Africa (26)
+	- Central/SA/Carr (27)
+
+Other {opob} (28)
+
+Atlantic (Other) {atotherpob}
+	- Other (35)
+
+Atlantic_Asia {atotherasiapob} NA
+Atlantic_OtherEuro {atothereuropob} NA
+
+
+1996
+—————
+Canada {canpob}(1-10)
+	- Atlantic (33-37)
+
+USA {uspob}
+	- USA (11)
+	- Atlantic USA (11)
+
+Northern & Western European {nweuropob}
+	- UK (12)
+	- Atlantic (UK 12)
+
+	- Germany (13)
+	- Atlantic Germany (13)
+	- Netherlands (15)
+
+	- Atlantic Germany (13)
+	- Atlantic Netherlands (15)
+
+Eastern European {eeuropob}
+	- Poland (16)
+	- USSR (18)
+	- Yugoslavia (19)
+
+South European {seuropob}
+	- Italy (14)
+	- Portugal (17)
+Other European {oeuropob}
+	- Other Euro (20)
+
+South / SouthEast Asia {sasiapob}
+	- India (22)
+	- Other South Asia, (23)
+	- china (24)
+	- Hong Kong (25)
+	- Philippines (26)
+	- Vietname (27)
+	- Other East/SE (28)
+
+West Asia {wasiapob}
+	- West Asia (21)
+
+Africa {afropob}
+	- East Africa (29)
+	- Other Africa (30)
+
+Caribbean, Central America, Bermude {latinpob}
+	- Central America (31)
+Other {opob} (32)
+
+Atlantic_Other {atotherpob}
+	- Other (40)
+Atlantic_Asia {atotherasiapob}
+	 - Asia (39)
+Atlantic_OtherEuro {atothereuropob}
+	- Other Europe (38)
+
+
+
+2001
+Canada {canpob}
+	- Canada (1-10)
+	- Atlantic Canada (1-5)
+
+USA {uspob}
+	- USA (11)
+	- Atlantic USA (6)
+
+Northern & Western European {nweuropob}
+	- UK (12)
+	- Atlantic UK (8)
+
+	- Germany (13)
+	- Netherlands (15)
+	- France (18)
+
+	- Atlantic Germany (8)
+	- Atlantic Netherlands (9)
+
+	
+Eastern European {eeuropob}
+	- Poland (16)
+	- USSR (20)
+	- Yugoslavia (21)
+South European {seuropob}
+	- Italy (14)
+	- Portugal (17)
+	- Greece (19)
+
+Other European {oeuropob}
+	- Other Europe (22)
+
+South / SouthEast Asia {sasiapob}
+	- India (24)
+	- Other south asia (25)
+	- china (26)
+	- hong kong (27)
+	- philippines (28)
+	- vietnamese (29)
+	- Other east, SE, (30)
+
+West Asia {wasiapob}
+	- West Asia (23)
+Africa {afropob}
+	- East Africa (31)
+	- Other Africa (32)
+
+Caribbean, Central America, Bermude {latinpob}
+	-Central America, (33)
+
+Other {opob}
+	- Other (35)
+	- Oceania (35)
+
+Atlantic_Other {atotherpob}
+	- Other (12)
+Atlantic_Asia {atotherasiapob}
+	- Asia (11)
+Atlantic_OtherEuro {atothereuropob}
+	- Other Euro (10)
+
+
+
+2006
+Canada {canpob} (1)
+USA {uspob} (2)
+Northern & Western European {nweuropob}
+	- UK (7)
+	- Germany (8)
+	- Other N/W European (9)
+
+Eastern European {eeuropob}
+	- Poland (10)
+	- Other Eastern Europe (11)
+
+South European {seuropob}
+	- Italy (12)
+	- Portugal (13)
+	- Other Southern Europe (14)
+
+Other European {oeuropob} NA
+
+South / SouthEast Asia {sasiapob}
+	- China (19)
+	- Hong Kong (20)
+	- Other East Asia (21)
+	- philippines (22)
+	- Other South East (23)
+	- India (24)
+	- Pakistan (25)
+	- Other South Asia (26)
+
+West Asia {wasiapob}
+	 - Middle East, West Asia (18)
+
+Africa {afropob}
+	- Eastern Africa (15)
+	- Northern Africa (16)
+	- Other Africa (17)
+
+Caribbean, Central America, Bermude {latinpob}
+	- Central America (3)
+	- Jamaica (4)
+	- Other Caribbean (5)
+	- South America (6)
+Other {opob}
+	- Oceana other, (27)
+
+Atlantic_Other {atotherpob} NA
+Atlantic_Asia {atotherasiapob}NA
+Atlantic_OtherEuro {atothereuropob}NA
+
+
+2011
+Canada {canpob} (1)
+USA {uspob} (2)
+Northern & Western European {nweuropob}
+	- UK (7)
+	- Germany (8)
+	- Other N/W European (9)
+
+Eastern European {eeuropob}
+	- Poland (10)
+	- Other Eastern Europe (11)
+
+South European {seuropob}
+	- Italy (12)
+	- Portugal (13)
+	- Other Southern Europe (14)
+
+Other European {oeuropob} NA
+
+South / SouthEast Asia {sasiapob}
+	- China (19)
+	- Hong Kong (20)
+	- Other East Asia (21)
+	- philippines (22)
+	- Other South East (23)
+	- India (24)
+	- Pakistan (25)
+	- Other South Asia (26)
+
+West Asia {wasiapob}
+	 - Middle East, West Asia (18)
+
+Africa {afropob}
+	- Eastern Africa (15)
+	- Northern Africa (16)
+	- Other Africa (17)
+
+Caribbean, Central America, Bermude {latinpob}
+	- Central America (3)
+	- Jamaica (4)
+	- Other Caribbean (5)
+	- South America (6)
+Other {opob}
+	- Oceana other, (27)
+
+Atlantic_Other {atotherpob} NA
+Atlantic_Asia {atotherasiapob}NA
+Atlantic_OtherEuro {atothereuropob}NA

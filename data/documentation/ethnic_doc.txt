@@ -1,0 +1,526 @@
+Ethnicities
+@Mehryar Maalem - 2016
+(<census code>) {<variable name>}
+
+1986 [64-65]			
+----------
+Aboriginal{abor} (20)
+
+Northern European {neuro}
+	- British (1)
+	- Scandinavian (5)
+Western European {weuro}
+	- Dutch (3)
+	- French (2)
+	- German (4)
+
+Eastern Europe {eeuro}
+	- Ukrainian (8)
+	- Croatian, Serbian, etc. (9) 
+	- Polish (7)
+	- hungarian (6)
+
+Southern European {seuro}
+	- Italian (11)
+	- portugese (12)
+	- greek (10)
+
+Jewish  {jew} (13)
+Othern European {oeuro} (14)
+
+Western Asia {wasia}
+	- West Asia & Arab Origins (15)
+
+
+East/South East Asia {esasia}
+	- chinese (17)
+	- filipino (18)
+	- south asia (16)
+	- south/east asia (19)
+
+Africa/Carribean {afrocrb} (21)
+Latin {latn} NA
+canadian {can} NA
+
+Other Single {osing} (22)
+
+French & British Multiple responses {fbmulti}
+	- british and french (24)
+	- british and other (25)
+	- french and other(26)
+	- british, french, other (27)
+	- british only (23)
+
+Other Multiple {omulti} (28)
+
+1991 [39-40]
+---------
+Aboriginal{abor} (25)
+
+Northern European {neuro}
+	- british (1)
+Western European {weuro}
+	- french (2)
+	- dutch (3)
+	- german (4)
+	- other western euro (5)
+
+Eastern Europe {eeuro}
+	- balkan (9)
+	- ukrainian (8)
+	- hungarian (6)
+	- polish (7)
+
+Southern European {seuro}
+	- italian (11)
+	- portugese (12)
+	- greek (10)
+	- spanish (13)
+
+Jewish  {jew} (14)
+
+Othern European {oeuro} 
+	- Other European (15)
+
+Western Asia {wasia}
+	- Arab Origin (16)
+	- West Asian (17)
+East/South East Asia {esasia}
+	- South Asian (18)
+	- chinese (19)
+	- filipino (20)
+	- vietnamese (21)
+	- Other E/SE (22)
+
+Africa/Carribean {afrocrb}
+	- Black & Carrib (24)
+
+Latin {latn} (23)
+
+Other Single {osing}
+	- Other Single (27)
+
+Canadian {can} (26)
+
+French & British Multiple responses {fbmulti}
+	- british and french (29)
+	- british and other (30)
+	- french and other (31)
+	- british, french, other (32)
+	- british only (28)
+
+Other Multiple {omulti}
+	- Canadian and other (33)
+
+(Atlantic)
+european {at_eur}
+	- other european (34)
+asian {at_asian}
+	- other asian (35)
+other singler {at_osing}
+	- other single (36)
+
+
+
+1996 [42-43]
+--------
+Aboriginal{abor} (27)
+	- aboriginal (Atlantic) (27)
+Northern European {neuro}
+	- british (1)
+
+	- british (ATLANTIC) (1)
+
+
+Western European {weuro}
+	- french (2)
+	- dutch (3)
+	- german (4)
+	- other western european (5)
+
+	- french (ATLANTIC) (2)
+	- german (ATLANTIC) (4)
+
+Eastern Europe {eeuro}
+	- polish (7)
+	- ukrainian (8)
+	- balkan (9)
+	- hungarian (6)
+
+Southern European {seuro}
+	- greek (10)
+	- italian (11)
+	- portugese (12)
+	- spanish (13)
+	
+Jewish  {jew} (14)
+Othern European {oeuro} (15)
+
+Western Asia {wasia}
+	- west asian (19)
+	- other arab (18)
+	- lebanese (17)
+
+East/South East Asia {esasia}
+	- chinese (21)
+	- filipino (22)
+	- other E/SE (24)
+	- south asian (20)
+	- vietnamese (23)
+
+Africa/Carribean {afrocrb}
+	- African origin (16)
+	- Carribean (26)
+	- African Carribean (ATLANTIC) (46)
+
+Latin {lat}
+	- Lat. Central/south. orig. (25) 
+
+Other Single {osing} (29)
+
+canadian {can} (28)
+	- canadian (Atlantic) {28}
+
+
+French & British Multiple responses {fbmulti}
+	- british only (30)
+	- british and french (31)
+	- british and canadian (32)
+	- british and other(33)
+	- british, canadian and other (34)
+	- french only (35)
+	- french and canadian (36)
+	- french and other (37)
+	- french, canadian and other (38) 
+	- british, french, and canadian (40)
+	- british, french and other (41)
+	- british, french, canadian, and other (42)
+
+* For the atlantic variable these codes are the same. 
+
+
+
+Other Multiple {omulti}
+	- canadian and other(39)
+	- othe multiple (43)
+
+* For the atlantic variable these codes are the same. 
+
+
+(Atlantic)
+
+european {at_eur}
+	- other european (44)
+
+asian {at_asian}
+	- asian orgins (45)
+
+other singler {at_osing}
+	- other single (47)
+
+
+
+2001 [67-68]
+---------
+
+Aboriginal{abor}
+Northern European {neuro}
+	- English (2)
+	- other british (22)
+	- irish (3)
+	- scottish (4)
+	- northern european (25)
+
+	- british isle (atlantic) (1)
+
+Western European {weuro}
+	- french (5)
+	- dutch (7)
+	- german (6)
+	- western european (23)
+
+	- french (atlantic) (2)
+
+Eastern Europe {eeuro}
+	- polish (9)
+	- ukrainian (8)
+	- balkan (27)
+	- eastern european (24)
+	- hungarian (10)
+
+
+Southern European {seuro}
+	- italian (12)
+	- portugese (11)
+	- southern european (26)
+
+Jewish  {jew} (14)
+
+Othern European {oeuro}
+	- other european (atlantic) (3)
+
+Western Asia {wasia}
+	- west asian (31)
+	- other arab (30) 
+	- lebanese (16)
+
+	- west asian (atlantic)
+	- arab (atlantic)
+
+East/South East Asia {esasia}
+	- chinese (18) 
+	- filipino (19)
+	- East/SE Asia  (33)
+	- vietnamese (20)
+	- south asian  
+	- korean (21)
+	- Eat Indian (17)
+
+
+	- E/SE asian (atlantic) (8)
+	- south asian (atlantic) (7)
+
+Africa/Carribean {afrocrb}
+	- African Origin (29)
+	- Caribean (35)
+	- Jamaican (15)
+
+	- African origin (atlantic) (3)
+	- carribean (atlantic)  (10)
+
+
+Latin {lat}
+	- Latin (34)
+	- Latin (atlantic)
+
+
+Other Single {osing}
+	- other single (38)
+	- other single (atlantic)
+
+Canadian {can} (1)
+	- provincial origin (37)
+
+French & British Multiple responses {fbmulti}
+	- CBFP (39)
+	- CBFP, other (40)
+	- Aboriginal & CBFP (42)
+	- Aboriginal & CBFP, other(43)
+
+
+All below are from atlantic provinces. 
+
+	- british only (15)
+	- british and french (16)
+	- british and canadian (17)
+	- british and other(18)
+	- british, canadian and other (19)
+	- french only (20)
+	- french and canadian (21)
+	- french and other (22)
+	- french, canadian and other (23) 
+	- british, french, and canadian (25)
+	- british, french and other (26)
+	- british, french, canadian, and other (27)
+
+Other Multiple {omulti}
+	- other iorigin (46)
+	- Aboriginal only (41)
+	- aboriginal and other (45)
+
+
+From atlantic provinces
+	- canadian and other(24)
+	- othe multiple (28)
+
+(Atlantic)
+
+european {at_eur} (3)
+
+asian {at_asian}
+	- west asian (6)
+	- south asian (7)
+	- east/SE asian (8)
+
+
+other singler {at_osing} (14)
+
+
+
+2006 [61-62]
+---------
+
+Aboriginal{abor} (3)
+
+Northern European {neuro}
+	- english (5)
+	- other british (9)
+	- other northern euro. (20)
+	- welsh (8)
+	- norwegian (17)
+	- finish (19)
+	- danish (18)
+	- swedish (16)
+	- irish (6)
+	- scottish (7)
+
+Western European {weuro}
+	- french (4)
+	- dutch (13)
+	- german (14)
+	- western euro.(15)
+
+Eastern Europe {eeuro}
+	- romainian (25)
+	- russian (23)
+	- polish (22)
+	- hungarian (21)
+	- ukrainian (24)
+	- other eastern europe (26)
+
+Southern European {seuro}
+	- italian (28)
+	- portugese (29)
+	- spanish (30)
+	- greek (27)
+	- other souther. euro (31)
+
+Jewish {jew} (32)
+	
+Othern European {oeuro}
+Western Asia {wasia}
+	- West asian (36)
+	- Other Arab (35)
+	- Lebanese (34)
+
+East/South East Asia {esasia}
+	- East/SE Asia (43)
+	- East india (37)
+	- other south Asian (38)
+	- chinese (39)
+	- filipino (40)
+	- korean (41)
+	- vietnamese (42)
+
+Africa/Carribean {afrocrb}
+	- African (33)
+	- Other Carribean (11)
+	- Jamaican (10)
+
+Latin {lat}
+	- Latin, Central. (12)
+
+Other Single {osing}
+	- other single (44)
+
+Canadian {can}
+	- Provincial or Regional (2)
+	- canadian (1)
+	
+
+French & British Multiple responses {fbmulti}
+	- CBFP (45)
+	- CBFP, others (46)
+	- Aboriginal & CBFP (48)
+	- Aboriginal & CBFP other (49)
+	
+
+Other Multiple {omulti}
+	- Aboriginal only (47)
+	- Aboriginal & other (50)
+	- other origin (51)
+
+(Atlantic)
+european {at_eur} NA
+asian {at_asian} NA
+other singler {at_osing} NA
+
+2011
+---------
+
+
+
+Aboriginal{abor} (1)
+Northern European {neuro}
+	- english (5)
+	- irish (6)
+	- scottish (7)
+	- other northern euro. (16)
+	- other british isle (9)
+
+
+Western European {weuro}
+	- french (10)
+	- german (12)
+	- dutch (11)
+	- other western euro (13)
+Eastern Europe {eeuro}
+	- polish (18)
+	- ukrainian (20)
+	- hungarian (17)
+`	- russian (19)
+	- other east euro (21)
+
+Southern European {seuro}
+	- italian (23)
+	- greek (22)
+	- other south. euro (26)
+	- portugese (24)
+	- spanish (25)
+
+Jewish  {jew}
+Othern European {oeuro} (27)
+
+Western Asia {wasia}
+	- West Central Asia middle east (32)
+
+East/South East Asia {esasia}
+	- chinese (35)
+	- filipino (36)
+	- other East/SE Asia (37)
+	- Other south asian (34)
+	- east indian (33)
+
+Africa/Carribean {afrocrb}
+	- African (31)
+	- other Carribbean (29)
+	- Jamaican (28)
+
+
+Latin {lat}
+	- Latin, Central and south American (30)
+
+	
+Other Single {osing}
+	- other single
+
+
+Canadian {can} (2)
+
+French & British Multiple responses {fbmulti}
+	- british and french (40)
+	- British and Other(42)
+	- french and other (46)
+	- british,french, other (50)
+	- british only (39)
+	- british and canadian (41)
+	- french and Canada (45)
+	- french only (44)
+	- british, canada, french, other (51)
+	- british, french Canada
+	- french, Canada, other (47)
+	- british, Canada, other (43)
+
+Other Multiple {omulti}
+	- Canada, other (48)
+	- other multiple (52)
+	- other North American (4)
+	- oceana (38)
+
+
+
+
+(Atlantic)
+european {at_eur} NA
+asian {at_asian} NA
+other singler {at_osing} NA

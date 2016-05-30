@@ -1,0 +1,51 @@
+VARIABLES
+@Mehryar Maalem - 2016
+
+
+province {prov}
+
+Ethnicity
+---------
+Aboriginal{abor}
+Northern European {neuro}
+Western European {weuro}
+Eastern Europe {eeuro}
+Southern European {seuro}
+Jewish  {jew}
+Othern European {oeuro}
+Western Asia {wasia}
+East/South East Asia {esasia}
+Africa/Carribean {afrocrb}
+Latin {lat}
+Other Single {osing}
+Canadian {can}
+French & British Multiple responses {fbmulti}
+Other Multiple {omulti}
+
+(Atlantic)
+european {at_eur}
+asian {at_asian}
+other singler {at_osing}
+
+
+Place of Birth
+--------------
+
+Canada {canpob}
+USA {uspob}
+Northern & Western European {nweuropob}
+Eastern European {eeuropob}
+South European {seuropob}
+Other European {oeuropob}
+South / SouthEast Asia {sasiapob}
+West Asia {wasiapob}
+Africa {afropob}
+Caribbean, Central America, Bermude {latinpob}
+Other {opob}
+
+Atlantic_Other {atotherpob}
+Atlantic_Asia {atotherasiapob}
+Atlantic_OtherEuro {atothereuropob}
+
+
+

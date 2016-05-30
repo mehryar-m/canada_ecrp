@@ -1,0 +1,71 @@
+Ethnicities
+(<census code>) {<variable name>}
+
+
+
+1986 [ETHNIC. ORIGIN pos. 64-65]			
+----------
+Aboriginal{abor} (20)
+
+Northern European {neuro}
+	- British (1)
+	- Scandinavian (5)
+Western European {weuro}
+	- Dutch (3)
+	- French (2)
+	- German (4)
+
+Eastern Europe {eeuro}
+	- Ukrainian (8)
+	- Croatian, Serbian, etc. (9) 
+	- Polish (7)
+	- hungarian (6)
+
+Southern European {seuro}
+	- Italian (11)
+	- portugese (12)
+	- greek (10)
+
+Jewish  {jew} (13)
+Othern European (14) {oeuro}
+
+Western Asia {wasia}
+	- West Asia & Arab Origins (15)
+
+
+East/South East Asia {esasia}
+	- chinese (17)
+	- filipino (18)
+	- south asia (16)
+	- south/east asia (19)
+
+Africa/Carribean {afrocrb} (21)
+
+Other Single {osing} (22)
+
+French & British Multiple responses {fbmulti}
+	- british and french (24)
+	- british and other (25)
+	- french and other(26)
+	- british, french, other (27)
+	- british only (23)
+
+Other Multiple {omulti} (28)
+
+1991
+---------
+Aboriginal{abor}
+
+1996
+---------
+2001
+---------
+
+2006
+---------
+
+
+
+
+2011
+---------

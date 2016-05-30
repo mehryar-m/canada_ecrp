@@ -11,10 +11,12 @@ infix prov 1-2 ethn 64-65 plob 85-86 ctzn 92 immigage 93-94
   using indiv86.txt, clear ;
 gen year = 1986
 
-// See variables.txt for descriptions
+/* See variables.txt for descriptions
+   See ethnic_doc.txt or codebook86.txt for orginin of ethn codes and
+*/
 
-gen abor
-gen neuro
+gen abor  = 1 if ethn == 1
+gen neuro = 
 gen weuro
 gen eeuro
 gen seuro
