@@ -220,10 +220,12 @@ other singler {at_osing}
 
 
 
-2001 [67-68]
+2001 [65-66] [67-68]
 ---------
 
 Aboriginal{abor}
+	- atlantic (11)
+	- other provinces (36)
 Northern European {neuro}
 	- English (2)
 	- other british (22)
@@ -256,7 +258,7 @@ Southern European {seuro}
 
 Jewish  {jew} (14)
 
-Othern European {oeuro}
+Othern European {oeuro} (28)
 	- other european (atlantic) (3)
 
 Western Asia {wasia}
@@ -272,7 +274,7 @@ East/South East Asia {esasia}
 	- filipino (19)
 	- East/SE Asia  (33)
 	- vietnamese (20)
-	- south asian  
+	- south asian (32)
 	- korean (21)
 	- Eat Indian (17)
 
@@ -291,15 +293,17 @@ Africa/Carribean {afrocrb}
 
 Latin {lat}
 	- Latin (34)
-	- Latin (atlantic)
+	- Latin (atlantic) (9)
 
 
 Other Single {osing}
 	- other single (38)
-	- other single (atlantic)
+	- other single (atlantic)(14)
 
 Canadian {can} (1)
 	- provincial origin (37)
+	- provincial atlantic (13)
+	- canada atlantic (12)
 
 French & British Multiple responses {fbmulti}
 	- CBFP (39)
@@ -387,7 +391,7 @@ Southern European {seuro}
 
 Jewish {jew} (32)
 	
-Othern European {oeuro}
+Othern European {oeuro} NA
 Western Asia {wasia}
 	- West asian (36)
 	- Other Arab (35)
@@ -468,7 +472,7 @@ Southern European {seuro}
 	- portugese (24)
 	- spanish (25)
 
-Jewish  {jew}
+Jewish  {jew} NA
 Othern European {oeuro} (27)
 
 Western Asia {wasia}
@@ -492,7 +496,7 @@ Latin {lat}
 
 	
 Other Single {osing}
-	- other single
+	-  oceana (38)
 
 
 Canadian {can} (2)
@@ -507,7 +511,7 @@ French & British Multiple responses {fbmulti}
 	- french and Canada (45)
 	- french only (44)
 	- british, canada, french, other (51)
-	- british, french Canada
+	- british, french Canada (49)
 	- french, Canada, other (47)
 	- british, Canada, other (43)
 
@@ -515,7 +519,7 @@ Other Multiple {omulti}
 	- Canada, other (48)
 	- other multiple (52)
 	- other North American (4)
-	- oceana (38)
+	
 
 
 
