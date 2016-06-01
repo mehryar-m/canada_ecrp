@@ -19,7 +19,7 @@ order year, first;
 */
 gen immigstat = 0;
 replace immigstat = 1 if immstat == 2;
-drop immstat
+drop immstat;ko
 
 // Ethnic Origin
 gen abor  = 1 if ethn == 1;
