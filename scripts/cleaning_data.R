@@ -10,10 +10,11 @@ census_01 <- read.csv("~/OneDrive/Work/DG/data_files/2001.csv", head = TRUE)
 census_06 <- read.csv("~/OneDrive/Work/DG/data_files/2006.csv", head = TRUE)
 census_11 <- read.csv("~/OneDrive/Work/DG/data_files/2011.csv", head = TRUE)
 
-my.data <- rbind(eightsix, nineone, nonesix, zeroone, zerosix, eleven)
+my.date <- rbind(census_86,census_91,census_96,census_01,census_06,census_11)
 
 ## Visible Minority
 ## definition: 
 #     - members of visible minorities means persons,
 #     other than aboriginal peoples, who are non-Caucasian in race or non-white in colour; 
 #     (minorités visibles)
+
