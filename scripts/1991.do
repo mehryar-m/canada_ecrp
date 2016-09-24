@@ -8,7 +8,7 @@ clear
 cd "/Users/mehryarmaalem/OneDrive/Work/DG/data_files"
 #delimit ; 
 infix prov 1-2 vismin 41  plob 31-32 ctzn 33 immstat 34 
-	   ethn 39-40 using indiv91.txt,clear;
+	   ethn 39-40 own using indiv91.txt,clear;
 	  
 gen year = 1991;
 order year, first;
